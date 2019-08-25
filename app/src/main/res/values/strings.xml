@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">TestAirit</string>
+    <string name="app_name">Airit</string>
+    <string name="internet_connection">Please check your internet connection and try again.</string>
+
 </resources>
